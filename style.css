@@ -1,0 +1,20 @@
+body{
+    font-size: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#allitems {
+    font-size: 8rem;
+    
+}
+
+.navbar p{
+    font-size: 50px;
+    color: white;
+
+}
+
+.readme{
+    text-decoration: none;
+    font-size: 2rem;
+}
